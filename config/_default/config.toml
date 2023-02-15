@@ -1,0 +1,85 @@
+baseURL = "https://neel.amrith.me"
+title = "Neel's presence in the WWW"
+theme = "zzo"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = true
+
+summaryLength = 70
+buildFuture = true
+
+copyright = "&copy;{year}, All original writing on this site is licensed under "
+timeout = 10000
+enableEmoji = true
+paginate = 20
+rssLimit = 100
+
+enableGitInfo = false
+googleAnalytics = "UA-148005027-1"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+      xHTML = true
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+[outputs]
+  page = ["HTML", "SearchIndex"]
+  home = ["HTML", "RSS", "SearchIndex"]
+  section = ["HTML", "RSS", "SearchIndex"]
+  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
+  taxonomy = ["HTML", "RSS", "SearchIndex"]
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true
+    notAlternative = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[deployment]
+
+order = [".jpg$", ".gif$"]
+
+
+[[deployment.targets]]
+name = "gcs"
+URL = "gs://amrith.me"
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+pattern = "^sitemap\\.xml$"
+contentType = "application/xml"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
+

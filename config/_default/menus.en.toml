@@ -1,0 +1,64 @@
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 6
+
+[[main]]
+  identifier = "archive"
+  name = "Changelog"
+  url = "archive"
+  weight = 5
+
+[[main]]
+  identifier = "gallery"
+  name = "Gallery"
+  url = "gallery"
+  weight = 3
+
+
+[[main]]
+  parent = "gallery"
+  name = "Paintings"
+  url = "gallery/paintings"
+
+[[main]]
+  parent = "gallery"
+  name = "Prep-Paintings"
+  url = "gallery/prep-paintings"
+
+[[main]]
+  parent = "gallery"
+  name = "Photos"
+  url = "gallery/photo"
+
+[[main]]
+  identifier = "posts"
+  name = "Blog"
+  url = "posts"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "Blog"
+  url = "posts"
+  weight = 1
+
+
+#[[main]]
+#  parent = "posts"
+#  name = "zzo"
+#  url = "posts/zzo"
+
+#[[main]]
+#  identifier = "showcase"
+#  name = "Showcase"
+#  url = "showcase"
+#  weight = 6
+
+
+[[main]]
+  identifier = "talks"
+  name = "Talks"
+  url = "talks"
+  weight = 2
