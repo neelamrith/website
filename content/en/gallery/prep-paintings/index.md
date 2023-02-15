@@ -7,7 +7,7 @@ mode: one-by-one
 description: "Drawings and Paintings when I was 4 year old"
 images:
   - image: Godzilla-vs-mechagodzilla.jpg
-    caption:  Godzilla vs mechagodzilla
+    caption:  Axolotl godzilla vs Tornado Godzilla
   - image: harry-the-dog.jpg
     caption: Harry the dog. Drawing in School.
     
