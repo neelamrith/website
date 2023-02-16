@@ -11,7 +11,7 @@ images:
   - image: harry-the-dog.jpg
     caption: Harry the dog. Drawing in School.
     
-image: gallery/prep-paintings/harry-the-dog.jpg
+image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---
 
 Check out my paintaings when I was in prep

@@ -58,7 +58,7 @@ images:
 
 
     
-image: gallery/paintings/a-rose.jpg
+image: gallery/4-yo-paintings/a-rose.jpg
 ---
 
 Check out my paintaings when I was 4 year old.
