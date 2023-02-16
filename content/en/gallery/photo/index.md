@@ -8,14 +8,14 @@ description: "Some photos of us and the world around us"
 images:
   - image: lollipop-creek-view.jpg
     caption:  At our local creek
-  - image: lollipop-creek.jpg
-    caption:  Our lake at dusk
   - image: werribee-beach.jpg
     caption: Me and my son
   - image: neel-gif.gif
     caption: Dancing 
   - image: neel-rain.jpg
     caption: Paper Boats in Kerala
+  - image: floor-dino.jfif
+    caption: Dino drawn in the backyard floor
  
 image: gallery/photo/neel-rain.jpg
 ---

@@ -16,21 +16,23 @@
   url = "gallery"
   weight = 3
 
-
-[[main]]
-  parent = "gallery"
-  name = "Paintings"
-  url = "gallery/paintings"
-
-[[main]]
-  parent = "gallery"
-  name = "Prep-Paintings"
-  url = "gallery/prep-paintings"
-
 [[main]]
   parent = "gallery"
   name = "Photos"
   url = "gallery/photo"
+  weight = 1
+
+[[main]]
+  parent = "gallery"
+  name = "4yr Old's art"
+  url = "gallery/4-yo-paintings"
+  weight = 2
+
+[[main]]
+  parent = "gallery"
+  name = "5yr Old's art"
+  url = "gallery/5-yo-paintings"
+  weight = 3
 
 [[main]]
   identifier = "posts"

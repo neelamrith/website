@@ -1,5 +1,5 @@
 ---
-title: Paintings when I was 4 years
+title: Paintings when I was 4 years old
 date: 2019-10-31T10:20:16+09:00
 description: Drawings and Paintings when I was 4 years old
 type: gallery
@@ -38,8 +38,25 @@ images:
     caption: Sun
   - image: Tree.jpg
     caption: Tree
-  
-  
+  - image: cat-who-ate-lot-of-things.jfif
+    caption: Cat who at a lot of things
+  - image: dino-vs-something.jfif
+    caption: Dino vs something
+  - image: Godzilla-vs-king-ghidora.jfif
+    caption: Godzilla vs King Ghidora
+  - image: i-scream-neel.jfif
+    caption: I scream Neel
+  - image: peppa-pig-robot.jfif
+    caption: Robot in one of Peppa Pig Cartoon
+  - image: scorpion-sad-worm-scared-human.jfif
+    caption: Scorpion, a sad worm and a scared human
+  - image: flower-and-bee.jfif
+    caption: Flower and Bee
+  - image: flower.jfif
+    caption: A Sunflower
+
+
+
     
 image: gallery/paintings/a-rose.jpg
 ---
