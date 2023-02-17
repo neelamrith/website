@@ -10,6 +10,13 @@ images:
     caption:  Axolotl godzilla vs Tornado Godzilla
   - image: harry-the-dog.jpg
     caption: Harry the dog. Drawing in School.
+  - image: happy-cherry-ice-cream-2023-02-17.jpeg
+    caption: Happy Cherry Ice Cream
+  - image: happy-cherry-ice-cream-2023-02-17.jpeg
+    caption: Happy Cherry Ice Cream
+  - image: limbrus-godzilla-athroGodzilla-rodan-plane-in-rain-2023-02-17.jpeg
+    caption: Limbrus, Godzilla AthroGodzilla Rodan, Aeroplanes and another Limbrus in rain. Painted on 17-02-2023
+
     
 image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---

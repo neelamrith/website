@@ -44,8 +44,6 @@ images:
     caption: Dino vs something
   - image: Godzilla-vs-king-ghidora.jfif
     caption: Godzilla vs King Ghidora
-  - image: i-scream-neel.jfif
-    caption: I scream Neel
   - image: peppa-pig-robot.jfif
     caption: Robot in one of Peppa Pig Cartoon
   - image: scorpion-sad-worm-scared-human.jfif
