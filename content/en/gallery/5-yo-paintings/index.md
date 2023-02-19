@@ -1,6 +1,6 @@
 ---
 title: Paintings when I was in Prep (Grade-0)
-date: 2019-10-31T10:20:16+09:00
+date: 2023-02-06T10:20:16+09:00
 description: Drawings and Paintings when I was in Prep (Grade-0) - 5 years old
 type: gallery
 mode: one-by-one
@@ -14,7 +14,12 @@ images:
     caption: Happy Cherry Ice Cream
   - image: limbrus-godzilla-athroGodzilla-rodan-plane-in-rain-2023-02-17.jpeg
     caption: Limbrus, Godzilla AthroGodzilla Rodan, Aeroplanes and another Limbrus in rain. Painted on 17-02-2023
-
+  - image: hand-peacock-19-02-2023.jpeg
+    caption: Peacock in a hand
+  - image: monster-verse.jpeg
+    caption: Some monster drawings
+  - image: hand-peacock-sketch-pen-19-02-2023.jpeg
+    caption: Peacock in the shape of hand drawn through sketch pen
     
 image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---

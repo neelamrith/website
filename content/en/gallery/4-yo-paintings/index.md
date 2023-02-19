@@ -1,6 +1,6 @@
 ---
 title: Paintings when I was 4 years old
-date: 2019-10-31T10:20:16+09:00
+date: 2022-06-20T10:20:16+09:00
 description: Drawings and Paintings when I was 4 years old
 type: gallery
 mode: one-by-one
@@ -28,8 +28,6 @@ images:
     caption: godzilla-buying-fruits-n-veggies-and-soap-to-wash-hands.jpg
   - image: Mecha-King-Ghidora-Rodan-Angry-Mothra-and-baby-mothra-Godzilla-and-skullcrawler-10-06-2022.jpg
     caption: Mecha-King-Ghidora-Rodan-Angry-Mothra-and-baby-mothra-Godzilla-and-skullcrawler-10-06-2022
-  - image: A_River.jpg
-    caption: A River
   - image: a-rose.jpg
     caption: Rose
   - image: rainbow-4yo.jpg
@@ -53,6 +51,22 @@ images:
   - image: flower.jfif
     caption: A Sunflower
 
+  - image: Space-ship-in-space.jpeg
+    caption: Space ship flying through space
+  - image: Cute-Tiger-Coloring.jpeg
+    caption: Cute Tiger Colouring
+  - image: Ocean.jpeg
+    caption: Ocean
+  - image: fish-star-fish-octopus.jpeg
+    caption: Fish, Star-fish and an Octopus
+  - image: house-landscape.jpeg
+    caption: A beatiful house and everything around it
+  - image: king-kong-vs-skullcrawler.jpeg
+    caption: King Kong vs Skullcrawler
+  - image: grass-trees-and-sun.jpeg
+    caption: Simple water colour of Grass, trees and Sun
+  - image: simplest-man.jpeg
+    caption: A simple pencil drawing
 
 
     
