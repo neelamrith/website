@@ -20,6 +20,10 @@ images:
     caption: Some monster drawings
   - image: hand-peacock-sketch-pen-19-02-2023.jpeg
     caption: Peacock in the shape of hand drawn through sketch pen
+  - image: prep-school-activity-I-feel-happy-when-swim.jpeg
+    caption: Prep School activity where Neel had to write what makes him happy. He mentioned, "I feel happy when I go to swimming".
+  - image: a-fish-human-some-birds-soldier-jet-sun-a-bat-the-shore-coral-reef-sea-grass-and-water-and-bombs-and-somemore-birds.jpeg
+    caption: A Fish, a human, some birds, Soldier-Jet(thats why it has S written on it), a Bat(sleeping because its day), shore, Coral reef, Sea grass and water and bombs and some more birds
     
 image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---
