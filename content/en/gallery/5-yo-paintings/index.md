@@ -53,7 +53,10 @@ images:
     caption: A picture of people in a playground
   - image: things-that-are-in-dogman-the-book.jpg
     caption: Things that are in dogman the book
-
+  - image: ask-neel-to-describe-1.jpg
+    caption: ask-neel-to-describe-1.jpg
+  - image: ask-neel-to-describe-2.jpg
+    caption: ask-neel-to-describe-2.jpg
 
 image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---
