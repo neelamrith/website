@@ -25,6 +25,36 @@ images:
   - image: a-fish-human-some-birds-soldier-jet-sun-a-bat-the-shore-coral-reef-sea-grass-and-water-and-bombs-and-somemore-birds.jpeg
     caption: A Fish, a human, some birds, Soldier-Jet(thats why it has S written on it), a Bat(sleeping because its day), shore, Coral reef, Sea grass and water and bombs and some more birds
     
+    
+  - image: mushroom-and-the-snail.jpg
+    caption: Mushroom and the snail
+  - image: Gecko-in-a-wall.jpg
+    caption: Geckon in a wall
+
+  - image: yak.jpg
+    caption: A Yak
+  - image: world-env-day.jpg
+    caption: Painting drawn on world env day
+  - image: ants-vs-wasps.jpg
+    caption: Ants vs wasps
+  - image: bee-vs-dragonfly.jpg
+    caption: Bee vs Dragonfly
+  - image: grasshopper.jpg
+    caption: Grasshopper
+  - image: a-grown-up-tree.jpg
+    caption: Grown up tree
+  - image: a-piece-of-everything.jpg
+    caption: A piece of everything
+  - image: animals-things-and-dragon.jpg
+    caption: Animals things and dragon
+  - image: a-picture-of-a-house-with-animals.jpg
+    caption: A picture of a house with animals
+  - image: a-picture-of-people-in-a-playground.jpg
+    caption: A picture of people in a playground
+  - image: things-that-are-in-dogman-the-book.jpg
+    caption: Things that are in dogman the book
+
+
 image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---
 
