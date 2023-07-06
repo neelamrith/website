@@ -53,10 +53,12 @@ images:
     caption: A picture of people in a playground
   - image: things-that-are-in-dogman-the-book.jpg
     caption: Things that are in dogman the book
-  - image: ask-neel-to-describe-1.jpg
-    caption: ask-neel-to-describe-1.jpg
-  - image: ask-neel-to-describe-2.jpg
-    caption: ask-neel-to-describe-2.jpg
+  - image: harsha-in-aeroplane-neel-and-amrith-on-the-ground.jpg
+    caption: harsha in the aeroplane, neel and amrith on the ground with the car. Dad has a dino toy that he will give to Neel.
+  - image: a-piece-of-the-nether.jpg
+    caption: A piece of the Nether
+  - image: mcdonalds-chips-and-nuggets.jpg
+    caption: Some Chicken Nuggets and Chips in Macdonalds
 
 image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---
