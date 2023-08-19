@@ -59,7 +59,9 @@ images:
     caption: A piece of the Nether
   - image: mcdonalds-chips-and-nuggets.jpg
     caption: Some Chicken Nuggets and Chips in Macdonalds
-
+  - image: achico-limbrus-13-finned-nookie-aboriginal-lochio.jpg
+    caption: Drawing taken on 19-Aug-2023 of achico-limbrus-13-finned-nookie-aboriginal-lochio
+    
 image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---
 

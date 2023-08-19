@@ -69,6 +69,7 @@ images:
     caption: A simple pencil drawing
 
 
+
     
 image: gallery/4-yo-paintings/a-rose.jpg
 ---

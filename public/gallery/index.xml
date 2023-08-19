@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Galleries on neel.amrith.me</title>
+    <link>https://neel.amrith.me/gallery/</link>
+    <description>Recent content in Galleries on neel.amrith.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2023, All original writing on this site is licensed under</copyright>
+    <lastBuildDate>Mon, 06 Feb 2023 10:20:16 +0900</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="https://neel.amrith.me/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Paintings when I was in Prep (Grade-0)</title>
+        <link>https://neel.amrith.me/gallery/5-yo-paintings/</link>
+        <pubDate>Mon, 06 Feb 2023 10:20:16 +0900</pubDate>
+        
+        <atom:modified>Mon, 06 Feb 2023 10:20:16 +0900</atom:modified>
+        <guid>https://neel.amrith.me/gallery/5-yo-paintings/</guid>
+        <description>Check out my paintaings when I was in prep</description>
+        
+        <dc:creator>Neel</dc:creator>
+        <media:content url="https://neel.amrith.me/gallery/5-yo-paintings/harry-the-dog.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Paintings when I was 4 years old</title>
+        <link>https://neel.amrith.me/gallery/4-yo-paintings/</link>
+        <pubDate>Mon, 20 Jun 2022 10:20:16 +0900</pubDate>
+        
+        <atom:modified>Mon, 20 Jun 2022 10:20:16 +0900</atom:modified>
+        <guid>https://neel.amrith.me/gallery/4-yo-paintings/</guid>
+        <description>Check out my paintaings when I was 4 year old.</description>
+        
+        <dc:creator>Neel</dc:creator>
+        <media:content url="https://neel.amrith.megallery/4-yo-paintings/a-rose.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Photos</title>
+        <link>https://neel.amrith.me/gallery/photo/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        
+        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
+        <guid>https://neel.amrith.me/gallery/photo/</guid>
+        <description>Some photos of us and the world around</description>
+        
+        <dc:creator>Neel</dc:creator>
+        <media:content url="https://neel.amrith.megallery/photo/neel-rain.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
