@@ -61,6 +61,14 @@ images:
     caption: Some Chicken Nuggets and Chips in Macdonalds
   - image: achico-limbrus-13-finned-nookie-aboriginal-lochio.jpg
     caption: Drawing taken on 19-Aug-2023 of achico-limbrus-13-finned-nookie-aboriginal-lochio
+
+  - image: made-up-bug-20231022.jpg
+    caption: A Made up bug, created in 2023-Oct
+  - image: Snail-animal-hybrid-bug-20231022.jpg
+    caption: Snail Animal Hybrid Bug, created 2023 Oct
+  - image: wheel-bug-20231021.jpg
+    caption: Wheel Bug, created 2023 Oct
+  
     
 image: /gallery/5-yo-paintings/harry-the-dog.jpg
 ---
