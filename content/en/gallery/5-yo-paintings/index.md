@@ -1,10 +1,10 @@
 ---
 title: Paintings when I was in Prep (Grade-0)
 date: 2023-02-06T10:20:16+09:00
-description: Drawings and Paintings when I was in Prep (Grade-0) - 5 years old
+description: Drawings and Paintings which I drew in 2023 (5 year old)
 type: gallery
 mode: one-by-one
-description: "Drawings and Paintings when I was 4 year old"
+description: "Drawings and Paintings which I drew in 2023 (5 year old)"
 images:
   - image: Godzilla-vs-mechagodzilla.jpg
     caption:  Axolotl godzilla vs Tornado Godzilla
@@ -70,7 +70,7 @@ images:
     caption: Wheel Bug, created 2023 Oct
   
     
-image: /gallery/5-yo-paintings/harry-the-dog.jpg
+image: /gallery/5-yo-paintings/hand-peacock-sketch-pen-19-02-2023.jpeg
 ---
 
 Check out my paintaings when I was in prep

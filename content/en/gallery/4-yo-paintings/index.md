@@ -1,10 +1,10 @@
 ---
 title: Paintings when I was 4 years old
 date: 2022-06-20T10:20:16+09:00
-description: Drawings and Paintings when I was 4 years old
+description: Drawings and Paintings which I drew in 2022 (4 year old)
 type: gallery
 mode: one-by-one
-description: "Drawings and Paintings when I was 4 years old"
+description: "Drawings and Paintings which I drew in 2022 (4 year old)"
 images:
   - image: godzilla-muto-skull-crawler-original-30-April-2022.jpg
     caption:  Godzilla, Muto and Skull Crawler. Painted on 30 April 2022(4.5 year old).
