@@ -24,27 +24,36 @@
 
 [[main]]
   parent = "gallery"
+  name = "6yr Old's art"
+  url = "gallery/6-yo-paintings"
+  weight = 2
+
+[[main]]
+  parent = "gallery"
   name = "4yr Old's art"
   url = "gallery/4-yo-paintings"
-  weight = 2
+  weight = 3
 
 [[main]]
   parent = "gallery"
   name = "5yr Old's art"
   url = "gallery/5-yo-paintings"
-  weight = 3
+  weight = 4
 
-[[main]]
-  identifier = "posts"
-  name = "Blog"
-  url = "posts"
-  weight = 1
 
-[[main]]
-  identifier = "posts"
-  name = "Blog"
-  url = "posts"
-  weight = 1
+
+
+#[[main]]
+#  identifier = "posts"
+#  name = "Blog"
+#  url = "posts"
+#  weight = 1
+
+#[[main]]
+#  identifier = "posts"
+#  name = "Blog"
+#  url = "posts"
+#  weight = 1
 
 
 #[[main]]
