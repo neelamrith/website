@@ -1,10 +1,10 @@
 ---
-title: Paintings when I was in Prep (Grade-0)
+title: 2024 Drawings and Paintings (6 year old)
 date: 2024-01-04T10:10:30+09:00
-description: Drawings and Paintings when I was in Prep (Grade-0) - 5 years old
+description: Drawings and Paintings which I drew in 2024 (6 year old)
 type: gallery
 mode: one-by-one
-description: "Drawings and Paintings when I was 4 year old"
+description: "Drawings and Paintings which I drew in 2024 (6 year old)"
 images:
   - image: 20240104_Pikachu_Pokemon.jpg
     caption:  Pikachu(Pokemon)
