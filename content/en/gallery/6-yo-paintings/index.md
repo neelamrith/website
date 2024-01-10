@@ -57,7 +57,7 @@ images:
   - image: Pokemons.jpg
     caption:  Some other pokemons
   - image: golden-dotted-painting.webp
-    caption: super duper awesome ore painting
+    caption: super duper hooper looper weeper awesome ore painting
     
 image: /gallery/6-yo-paintings/20240104_Pikachu_Pokemon.jpg
 ---
