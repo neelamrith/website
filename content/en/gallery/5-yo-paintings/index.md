@@ -65,7 +65,7 @@ images:
   - image: made-up-bug-20231022.jpg
     caption: A Made up bug, created in 2023-Oct
   - image: Snail-animal-hybrid-bug-20231022.jpg
-    caption: Snail Animal Hybrid Bug, created 2023 Oct
+    caption: Bunny ears, face of a bird, body of snail, claws of a Tiger, golden shells, golden flappers, golden wings, a stinger of a bee and the hybrid killed another hybrid | Snail Animal Hybrid Bug, created 2023 Oct
   - image: wheel-bug-20231021.jpg
     caption: Wheel Bug, created 2023 Oct
   
