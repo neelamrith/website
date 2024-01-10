@@ -52,7 +52,7 @@ images:
     caption:  Zubat (pokemon)
   - image: 20240104_healthy_snack_surprise_open.jpg
     caption:  Healthy Snack Surprise Open
-  - image: 2024040106_healthy_snack_surprise.jpg
+  - image: 20240401_healthy_snack_surprise.jpg
     caption:  Healthy Snack Surprise
   - image: Pokemons.jpg
     caption:  Some other pokemons
