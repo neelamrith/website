@@ -50,13 +50,13 @@ images:
     caption:  Summer Snack surprise Open
   - image: 20240106_Zubat_Pokemon.jpg
     caption:  Zubat (pokemon)
-  - image: 2024040106_healthy_snack_surprise_open.jpg
+  - image: 20240104_healthy_snack_surprise_open.jpg
     caption:  Healthy Snack Surprise Open
   - image: 2024040106_healthy_snack_surprise.jpg
     caption:  Healthy Snack Surprise
   - image: Pokemons.jpg
     caption:  Some other pokemons
-  - image: golden-dotted-painting.webp
+  - image: 20240110_golden-dotted-painting.webp
     caption: super duper hooper looper weeper mooper peeper keeper awesome ore painting
     
 image: /gallery/6-yo-paintings/20240104_Pikachu_Pokemon.jpg
