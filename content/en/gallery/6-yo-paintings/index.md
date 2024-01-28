@@ -1,6 +1,6 @@
 ---
 title: 2024 Drawings and Paintings (6 year old)
-date: 2024-01-04T10:10:30+09:00
+date: 2024-01-28T10:10:30+09:00
 description: Drawings and Paintings which I drew in 2024 (6 year old)
 type: gallery
 mode: one-by-one
@@ -58,7 +58,8 @@ images:
     caption:  Some other pokemons
   - image: 20240110_golden-dotted-painting.webp
     caption: super duper hooper looper weeper mooper peeper keeper awesome ore painting
-    
+  - image: 20240128_Bowerbird.jpg
+    caption: BowerBird
 image: /gallery/6-yo-paintings/20240104_Pikachu_Pokemon.jpg
 ---
 
