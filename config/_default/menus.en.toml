@@ -24,14 +24,14 @@
 
 [[main]]
   parent = "gallery"
-  name = "6yr Old's art"
-  url = "gallery/6-yo-paintings"
+  name = "7yr Old's art"
+  url = "gallery/7-yo-paintings"
   weight = 2
 
 [[main]]
   parent = "gallery"
-  name = "4yr Old's art"
-  url = "gallery/4-yo-paintings"
+  name = "6yr Old's art"
+  url = "gallery/6-yo-paintings"
   weight = 3
 
 [[main]]
@@ -39,6 +39,14 @@
   name = "5yr Old's art"
   url = "gallery/5-yo-paintings"
   weight = 4
+
+[[main]]
+  parent = "gallery"
+  name = "4yr Old's art"
+  url = "gallery/4-yo-paintings"
+  weight = 5
+
+
 
 
 
