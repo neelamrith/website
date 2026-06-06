@@ -16,6 +16,10 @@ images:
     caption: Neel Art - I
   - image: 2024_07_Neel_Art-2.jpg
     caption: Neel Art - II
+  - image: 20241117_101246_hypertonic_limbris.jpg
+    caption: Hypertonic Limbris
+  - image: Neel-self-portrait-me-2024.jpg
+    caption: Neel Self Portrait
 
 image: /gallery/7-yo-paintings/2024_07_Neel_Art-1.jpg
 ---
